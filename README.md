@@ -18,20 +18,17 @@ The architectures supported by this image are:
 | :----: |
 | x86-64 |
 
-
-## Additional Information
-
 ### Exposed Ports
 
  - 80:    HTTP
  - 443:   HTTPS
 
-## License
+### License
 The MIT License (MIT)
 
 Based on: https://github.com/linuxserver/docker-grocy
 
-## Donations
+### Donations
 
 As with all Free software, the power is less in the finances and more in the collective efforts. I really appreciate every pull request and bug report offered up by BarcodeBuddy's users, so please keep that stuff coming. If however, you're not one for coding/design/documentation, and would like to contribute financially, you can do so with the link below. Every help is very much appreciated!
 
